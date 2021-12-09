@@ -1,8 +1,7 @@
 cioa 1
-<<<<<<< HEAD
+
 hello 1
 hello 3
 hi
 rebase all
-=======
->>>>>>> da66b558a14dc98fc70bfbf5f343cd3f702521c0
+
